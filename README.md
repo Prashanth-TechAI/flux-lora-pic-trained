@@ -17,7 +17,7 @@ widget:
     with a Canon EOS R5 at 50mm, f/1.8, ISO 100, this cinematic portrait merges
     mythic grandeur with lifelike realism. --ar 16:9 --v 5
   output:
-    url: images/example_krlcwluvh.png
+    url: \images\example_fsighi893.png
 - text: >-
     Ultra-high-resolution, hyper-detailed cinematic headshot of Prashanth—a
     20-year-old, 5'3" young professional with smooth, youthful skin and clear,
@@ -49,7 +49,7 @@ widget:
     ultra-HD finish. Every detail is carefully refined to ensure a flawless,
     true-to-life depiction of Prashanth as Iron Man
   output:
-    url: images/example_t0cd4gmg8.png
+    url: \images\example_o31csqxrh.png
 - text: >-
     A highly detailed, ultra-realistic portrait of Prashanth, a 22-year-old,
     5'5" tall young warrior, transformed into an ancient Indian soldier from a
