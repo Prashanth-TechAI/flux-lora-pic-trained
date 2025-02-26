@@ -1,3 +1,29 @@
+# Flux_Lora_pic_trained
+
+> **Important:** This GitHub repository is a mirror containing sample images, outputs, and documentation only.  
+>  
+> For the full model, training details, and additional files, please visit the original Hugging Face repository:  
+> [Flux LoRA Trained on Hugging Face](https://huggingface.co/prashanth970/flux-lora-pic-trained/tree/main)
+
+A Flux LoRA trained on a local computer with [Fluxgym](https://github.com/cocktailpeanut/fluxgym)
+
+<Gallery />
+
+## Trigger words
+
+You should use `prashanth` to trigger the image generation.
+
+## Download Model and Use It With
+
+ComfyUI, AUTOMATIC1111, SD.Next, Invoke AI, Forge, etc.
+
+Weights for this model are available in Safetensors format.
+
+## Author
+
+Gummala Prashanth
+
+
 tags:
 - text-to-image
 - flux
@@ -110,27 +136,3 @@ license_link: https://huggingface.co/black-forest-labs/FLUX.1-dev/blob/main/LICE
 
 ---
 
-# Flux_Lora_pic_trained
-
-> **Important:** This GitHub repository is a mirror containing sample images, outputs, and documentation only.  
->  
-> For the full model, training details, and additional files, please visit the original Hugging Face repository:  
-> [Flux LoRA Trained on Hugging Face](https://huggingface.co/prashanth970/flux-lora-pic-trained/tree/main)
-
-A Flux LoRA trained on a local computer with [Fluxgym](https://github.com/cocktailpeanut/fluxgym)
-
-<Gallery />
-
-## Trigger words
-
-You should use `prashanth` to trigger the image generation.
-
-## Download Model and Use It With
-
-ComfyUI, AUTOMATIC1111, SD.Next, Invoke AI, Forge, etc.
-
-Weights for this model are available in Safetensors format.
-
-## Author
-
-Gummala Prashanth
